@@ -56,10 +56,9 @@
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![Screenshot 2024-12-13 034847](https://github.com/user-attachments/assets/c8304a8a-d7c1-4010-bb42-1210edd5b602)
+![image](https://github.com/user-attachments/assets/f9e20cc9-7860-4fa1-9d4d-68156f582c84)
 
 ### Name:  mohana krishna
 ### Register Number: 24000587
